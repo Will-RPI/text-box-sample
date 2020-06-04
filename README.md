@@ -131,7 +131,7 @@ b.
 <br>
 <form>
 c.
-<input type="text" size="60" value="the multiplication of the winput with the system impulse response">
+<input type="text" size="60" value="The multiplication of the winput with the system impulse response">
 </form> 
 <br>
 <form>
