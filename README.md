@@ -5,34 +5,22 @@ Enter Question:
 <input type="text">
 </form> 
 
-
-
-
-Choice A:
 <form>
+a.
 <input type="text">
 </form> 
 
-
-
-
-Choice B:
 <form>
+b.
 <input type="text">
 </form> 
 
-
-
-
-Choice C:
 <form>
+c.
 <input type="text">
 </form> 
 
-
-
-
-Choice D:
 <form>
+d.
 <input type="text">
 </form> 
