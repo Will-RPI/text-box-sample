@@ -18,12 +18,12 @@ b.
 <br>
 <form>
 c.
-<input type="text" value="11
+<input type="text" value="11">
 </form> 
 <br>
 <form>
 d.
-<input type="text" value="12
+<input type="text" value="12">
 </form>
 <br>
 <form>
