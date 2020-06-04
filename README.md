@@ -6,21 +6,21 @@ Enter Question:
 </form> 
 
 <form>
-a.
+A.
 <input type="text">
 </form> 
 
 <form>
-b.
+B.
 <input type="text">
 </form> 
 
 <form>
-c.
+C.
 <input type="text">
 </form> 
 
 <form>
-d.
+D.
 <input type="text">
 </form> 
