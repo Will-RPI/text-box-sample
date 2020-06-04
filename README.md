@@ -2,8 +2,13 @@
 
 Enter Question:
 <form>
-<input type="text" size="200" >
-</form> 
+<textarea rows="5" cols="60"></textarea>
+</form>
+
+
+
+
+
 
 <form>
 A.
