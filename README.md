@@ -2,7 +2,7 @@
 
 Enter Question:
 <form>
-<input type="text">
+<input type="text" size="200" >
 </form> 
 
 <form>
