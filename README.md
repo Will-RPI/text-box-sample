@@ -2,13 +2,13 @@
 
 Question 1:
 <form>
-<textarea rows="5" cols="100" value="57464"></textarea>
+<textarea rows="5" cols="100"></textarea>
 </form>
 <br>
 <br>
 <form>
 a.
-<input type="text">
+<input type="text" value="57464">
 </form> 
 <br>
 <form>
