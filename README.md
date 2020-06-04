@@ -2,8 +2,7 @@
 
 Question 3:
 <form>
-<input type="text" value="57464">
-<textarea rows="5" cols="100"></textarea>
+<textarea value="5757" rows="5" cols="100"></textarea>
 </form>
 <br>
 <br>
